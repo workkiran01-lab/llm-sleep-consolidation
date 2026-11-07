@@ -91,7 +91,7 @@ which is exactly what makes it a good learning project.
 - `requirements.txt` — torch, transformers, peft, accelerate
 - `results.md` — generated after a run
 
-## Ideas to extend it (good Claude Code sessions)
+## Ideas to extend it 
 
 - Swap the dream generator's parsing for structured JSON output
 - Add a second sleep cycle with a *second* fact set and measure interference
