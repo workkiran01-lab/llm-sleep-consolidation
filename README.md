@@ -1,3 +1,5 @@
+> **Attribution:** The original base demo in this repository was provided by [SOURCE] and is preserved unmodified in the initial commit. All extensions and later changes are mine and are documented in the commit history.
+
 # Mini Sleep-Cycle Demo
 
 A student-scale reproduction of the core idea from Google's paper
